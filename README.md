@@ -1,6 +1,6 @@
 # Hi, I am Samuel Muskovich 👋
 
-## I am a Software Engineer
+## I am a Software Engineer from Austria.
 
 - 🔭 Main Interest: Software Engineering & UI/UX Design
 - 🔭 Part-time Interest: Full Stack Web Development & Game Development
