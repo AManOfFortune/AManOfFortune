@@ -19,6 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS#:~:text=began%20in%202015.-,CSS%203,-%5Bedit%5D)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
 
 <!-- Backend -->
 
