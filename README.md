@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I have a Private Pilots License ✈️
 
 ### Examples of my work:
-- [Dungeons & Dice](https://amanoffortune.github.io/DnD-Game/) CHROME ONLY
+- [Dungeons & Dice](https://amanoffortune.github.io/DnD-Game/) _(Chrome support only)_
 
 ### Languages and Tools:
 
