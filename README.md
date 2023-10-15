@@ -33,7 +33,7 @@ _Note: Also consider checking out my public repositories for more examples._
 [<img align="left" alt="C#" width="26px" src="https://static.javatpoint.com/csharp/images/c-sharp.png" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 <!-- Gamedev -->
-[<img align="left" alt="Unity" width="26px" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftu3gt6ysfxq71.png" style="padding-right:10px;" />](https://unity.com)
+[<img align="left" alt="Unity" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" style="padding-right:10px;" />](https://unity.com)
 
 <!-- DBs -->
 
