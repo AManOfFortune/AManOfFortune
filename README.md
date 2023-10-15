@@ -14,6 +14,8 @@
 - [The Wandering Inn Webscraper](https://the-wandering-inn-webscraper.onrender.com)
 - [Whale Watching App](https://www.figma.com/proto/Q1KqwaszN1k0Yzz04rouqk/Whale-Watcher?type=design&node-id=5-54&t=IQppOl5OPbbtNQCC-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A54&mode=design)
 
+Video: [Dungeons & Dice: Behind-the-scenes](https://drive.google.com/file/d/13ZvOt3g2V2UYQZJShuZT02QeOW-5vABO/view?usp=sharing)
+
 _Note: Also consider checking out my public repositories for more examples._
 
 ### Languages and Tools:
