@@ -42,8 +42,7 @@ _Note: Also consider checking out my public repositories for more examples._
 <!-- Version control -->
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/AManOfFortune)
 
 <!-- Project Management -->
 
@@ -54,11 +53,6 @@ _Note: Also consider checking out my public repositories for more examples._
 [<img align="left" alt="Visual Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=2618" style="padding-right:10px;" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Intellij Idea" width="26px" src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" style="padding-right:10px;" />](https://www.jetbrains.com/idea/)
-
-<!-- CMD -->
-
-[<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25627.png" />](https://ismailchbiki.com/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_tw.png" />](https://ismailchbiki.com/#gh-dark-mode-only)
 
 <br />
 <br />
