@@ -25,12 +25,15 @@ _Note: Also consider checking out my public repositories for more examples._
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS#:~:text=began%20in%202015.-,CSS%203,-%5Bedit%5D)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
+[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="padding-right:10px;" />](https://www.typescriptlang.org)
 
 <!-- Backend -->
 
-[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />](https://cplusplus.com)
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />](https://cplusplus.com)
 [<img align="left" alt="C#" width="26px" src="https://static.javatpoint.com/csharp/images/c-sharp.png" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+<!-- Gamedev -->
+[<img align="left" alt="Unity" width="26px" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftu3gt6ysfxq71.png" style="padding-right:10px;" />](https://unity.com)
 
 <!-- DBs -->
 
@@ -44,7 +47,6 @@ _Note: Also consider checking out my public repositories for more examples._
 <!-- Version control -->
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/AManOfFortune)
 
 <!-- Project Management -->
 
