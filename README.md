@@ -6,7 +6,7 @@
 - 🔭 Part-time Interest: Full Stack Web Development & Game Development
 - 🥅 Eternal Goals: Becoming a better Software Engineer and writing a cleaner code.
 - 💬 Ask me about Web Development, UI/UX Design, Full Stack Development, Game Development
-- 📫 How to reach me: [samuel.muskovich@gmail.com](mailto:samuel.muskovich@gmail.com)
+- 📫 How to reach me: [contact@samuel-muskovich.at](mailto:contact@samuel-muskovich.at)
 - ⚡ Fun fact: I have a Private Pilots License ✈️
 
 ### Examples of my work:
