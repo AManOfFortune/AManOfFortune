@@ -1,6 +1,6 @@
 # Hi, I am [Samuel Muskovich](https://www.samuel-muskovich.at/) 👋
 
-## I am a Software Engineer from Austria.
+## I am a Software Engineer from Austria working at Siemens.
 
 - 🔭 Main Interest: Software Engineering & UI/UX Design
 - 🔭 Part-time Interest: Full Stack Web Development & Game Development
