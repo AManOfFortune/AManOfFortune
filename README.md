@@ -4,7 +4,7 @@
 
 - 🔭 Main Interest: Software Engineering & UI/UX Design
 - 🔭 Part-time Interest: Full Stack Web Development & Game Development
-- 🥅 Eternal Goals: Becoming a better Software Engineer and writing a cleaner code.
+- 🥅 Eternal Goals: Becoming a better Software Engineer and writing cleaner code.
 - 💬 Ask me about Web Development, UI/UX Design, Full Stack Development, Game Development
 - 📫 How to reach me: [contact@samuel-muskovich.at](mailto:contact@samuel-muskovich.at)
 - ⚡ Fun fact: I have a Private Pilots License ✈️
